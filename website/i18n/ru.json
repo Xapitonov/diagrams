@@ -1,0 +1,99 @@
+{
+  "_comment": "Этот файл автоматически сгенерирован write-translations.js",
+  "localized-strings": {
+    "next": "Далее",
+    "previous": "Назад",
+    "tagline": "Диаграмма как код",
+    "docs": {
+      "getting-started/examples": {
+        "title": "Примеры"
+      },
+      "getting-started/installation": {
+        "title": "Установка"
+      },
+      "guides/cluster": {
+        "title": "Кластеры"
+      },
+      "guides/diagram": {
+        "title": "Диаграммы"
+      },
+      "guides/edge": {
+        "title": "Ребра"
+      },
+      "guides/node": {
+        "title": "Узлы"
+      },
+      "nodes/alibabacloud": {
+        "title": "AlibabaCloud"
+      },
+      "nodes/aws": {
+        "title": "AWS"
+      },
+      "nodes/azure": {
+        "title": "Azure"
+      },
+      "nodes/c4": {
+        "title": "C4"
+      },
+      "nodes/custom": {
+        "title": "Пользовательский"
+      },
+      "nodes/digitalocean": {
+        "title": "DigitalOcean"
+      },
+      "nodes/elastic": {
+        "title": "Elastic"
+      },
+      "nodes/firebase": {
+        "title": "Firebase"
+      },
+      "nodes/gcp": {
+        "title": "GCP"
+      },
+      "nodes/generic": {
+        "title": "Generic"
+      },
+      "nodes/ibm": {
+        "title": "IBM"
+      },
+      "nodes/k8s": {
+        "title": "K8S"
+      },
+      "nodes/oci": {
+        "title": "OCI"
+      },
+      "nodes/onprem": {
+        "title": "OnPrem"
+      },
+      "nodes/openstack": {
+        "title": "OpenStack"
+      },
+      "nodes/outscale": {
+        "title": "Outscale"
+      },
+      "nodes/programming": {
+        "title": "Программирование"
+      },
+      "nodes/saas": {
+        "title": "Saas"
+      }
+    },
+    "links": {
+      "Docs": "Документация",
+      "Guides": "Руководства",
+      "Nodes": "Узлы",
+      "GitHub": "GitHub",
+      "Sponsoring": "Спонсорство"
+    },
+    "categories": {
+      "Getting Started": "С чего начать",
+      "Guides": "Руководства",
+      "Nodes": "Узлы"
+    }
+  },
+  "pages-strings": {
+    "Help Translate|recruit community translators for your project": "Помогите перевести",
+    "Edit this Doc|recruitment message asking to edit the doc source": "Редактировать",
+    "Translate this Doc|recruitment message asking to translate the docs": "Перевести"
+  }
+}
